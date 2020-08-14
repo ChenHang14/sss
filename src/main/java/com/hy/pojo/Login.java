@@ -4,7 +4,6 @@ public class Login {
     private int id;
     private  String username;
     private  String password;
-    private String add;
 
     public int getId() {
         return id;
