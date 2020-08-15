@@ -15,7 +15,6 @@ public class course {
                 ", cname='" + cname + '\'' +
                 '}';
 
-
     }
 
     public void setCid(int cid) {
